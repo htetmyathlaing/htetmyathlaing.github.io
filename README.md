@@ -4,7 +4,5 @@
 
 [MM Digital Solutions](https://mm-digital-solutions.com) မှာ **_Web Developr_** တစ်ယောက်အဖြစ် အလုပ် လုပ်နေပါတယ်။
 
-ကျွန်တော့်ကို အောက်ပါနေရာတွေကနေ တစ်ဆင့် ဆက်သွယ်နိုင်ပါတယ်။
-[facebook](www.facebook.com/htetmyathlaing)
-[medium](www.medium.com/htetmyathlaing)
+ကျွန်တော့်ကို  [facebook](https://www.facebook.com/htetmyathlaing) [medium](https://www.medium.com/htetmyathlaing)တို့က တစ်ဆင့် ဆက်သွယ်နိုင်ပါတယ်။
 
