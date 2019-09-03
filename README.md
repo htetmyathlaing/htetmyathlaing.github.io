@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+### ကျွန်တော့နာမည်က ထက်မြတ်လှိုင်ပါ။
 
-You can use the [editor on GitHub](https://github.com/htetmyathlaing/htetmyathlaing.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[ဟင်္သာတကွန်ပျူတာတက္ကသိုလ်](www.ucsh.edu.mm) ကနေ **Computer Science** နဲ့ ကျောင်းပြီးထားပါတယ်။
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[MM Digital Solutions](https://mm-digital-solutions.com) မှာ **_Web Developr_** တစ်ယောက်အဖြစ် အလုပ် လုပ်နေပါတယ်။
 
-### Markdown
+ကျွန်တော့်ကို အောက်ပါနေရာတွေကနေ တစ်ဆင့် ဆက်သွယ်နိုင်ပါတယ်။
+[facebook](www.facebook.com/htetmyathlaing)
+[medium](www.medium.com/htetmyathlaing)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/htetmyathlaing/htetmyathlaing.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
