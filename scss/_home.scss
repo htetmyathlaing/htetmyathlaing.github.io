@@ -1,0 +1,135 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.container {
+    position: relative;
+
+    .header {
+        display: grid;
+        justify-content: center;
+        align-items: center;
+        height: 20em;
+
+        // /* fallback for old browsers */
+        background: -webkit-linear-gradient(to right, #4A00E0, #8E2DE2);
+        // /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(to right, #4A00E0, #8E2DE2);
+        /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        position: relative;
+        border-bottom-right-radius: 50% 100%;
+
+        .profile-container {
+            position: absolute;
+            bottom: -5em;
+            width: 100%;
+
+            .circle-space {
+                width: 11em;
+                height: 11em;
+                margin: auto;
+                border-radius: 50%;
+                background: white;
+                position: relative;
+                display: flex;
+
+                .circle-border-gradient {
+                    width: 10.6em;
+                    height: 10.6em;
+                    border-radius: 50%;
+                    background-image: linear-gradient(to top, #40e0d0, #ff8c00, #ff0080);
+                    border-radius: 50%;
+                    animation: rot 1s linear infinite;
+                    margin: auto;
+                }
+
+                .profile-image {
+                    width: 10em;
+                    height: 10em;
+                    overflow: hidden;
+                    margin: auto;
+                    border-radius: 50%;
+                    border: 2px solid white;
+                    position: absolute;
+                    top: 6px;
+                    left: 6px;
+
+
+                    img {
+                        width: auto;
+                        height: 100%;
+                        margin-left: -3em;
+                    }
+                }
+            }
+        }
+
+        .header-info {
+            color: white;
+
+            h1 {
+                text-shadow: 1px 2px 0 #0040ff;
+            }
+        }
+    }
+
+    .info {
+        margin-top: 7em;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        border-radius: 1em;
+        border: 2px dashed #4A00E0;
+        padding: 1em;
+
+        a {
+            text-decoration: none;
+            color: #0040ff;
+        }
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    .container {
+        .header {
+            height: 15em;
+
+            .header-info {
+                color: white;
+
+                h1 {
+                    margin-bottom: 2em;
+                    margin-right: 1em;
+                }
+            }
+        }
+
+        .info {
+            width: 80%;
+        }
+    }
+
+}
+
+@keyframes rot {
+    0% {
+        transform: rotate(0deg)
+    }
+
+    25% {
+        transform: rotate(90deg)
+    }
+
+    50% {
+        transform: rotate(180deg)
+    }
+
+    75% {
+        transform: rotate(270deg)
+    }
+
+    100% {
+        transform: rotate(360deg)
+    }
+}

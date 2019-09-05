@@ -1,0 +1,27 @@
+{
+  "name": "htetmyathlaing.github.io",
+  "version": "1.0.0",
+  "description": "[ဟင်္သာတကွန်ပျူတာတက္ကသိုလ်](www.ucsh.edu.mm) ကနေ **Computer Science** နဲ့ ကျောင်းပြီးထားပါတယ်။",
+  "main": "index.js",
+  "scripts": {
+    "watch": "watch 'npm run build-scss'",
+    "build-scss": "sass scss/style.scss css/style.css",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "sass scss/style.scss css/style.css sass scss/_home.scss css/.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htetmyathlaing/htetmyathlaing.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/htetmyathlaing/htetmyathlaing.github.io/issues"
+  },
+  "homepage": "https://github.com/htetmyathlaing/htetmyathlaing.github.io#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "watch": "^1.0.2"
+  }
+}
